@@ -1,0 +1,334 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.top-home {
+    
+        height: 100%;
+        background: linear-gradient(to left, #b1a9cc, #2f2457);
+}
+      
+.span1{
+    display: block; /* Keep it block-level for the line break */
+    font-size: 20px; /* Font size for the span */
+    margin-top: 0; /* Remove margin */
+    line-height: 0; /* Adjust line height */
+    margin-left: 18vh
+    
+}
+.title-heading{
+    font-size: 50px;
+    margin-left: 14vh;
+    color: white;
+}
+.description{
+    width: 50%;
+    margin-left: 14vh;
+    margin-top: 20vh;
+    color: white;
+}
+.head-description{
+    font-size: 25px;
+    width: 100%;
+}
+.bt1{
+    width: 80%;
+
+}
+.bt2{
+    width: 80%;
+    border-width: 1px;
+    border-color: white;
+    border-style: solid;
+    color:#e0dfe6;
+}
+.price{
+    text-decoration: line-through;
+    color: #FFD700;
+}
+.price-description{
+    font-size: 26px;
+}
+.head3{
+    color: #a1de40;
+}
+.section-company{
+    background-color: #110426;
+    padding: 8vh;
+    padding-bottom: 10vh;
+}
+.company-heading{
+    color: #fff;
+    width: 45%;
+    margin: auto;
+    font-size: 49px;
+}
+.company-img{
+    margin-top: 10vh;
+}
+.collection-of-knowledge{
+    background: linear-gradient(to bottom right,#12283d ,#0e2b1b);
+    padding: 8vh;
+    padding-bottom: 10vh;
+}
+.description-knowledge-heading{
+    width: 45%;
+    margin: auto;
+    color: #fff;
+    font-size: 49px;
+}
+.description-knowledge-paragraph{
+    color: #bacad9;
+    width: 45%;
+    margin: auto;
+    padding-top: 4vh;
+}
+.bt-knowledge{
+    border-radius: 10px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #C0C0C0;
+    color: #fff;
+    margin-left: 2vh; 
+    
+}
+
+.card{
+    width: 35vh;
+    background-color: #2d4054;
+}
+
+.i1{
+    width: 35vh;
+}
+.card1-heading{
+    font-size: 26px;
+    width: 100%;
+    color: #fff;
+
+}
+.i2{
+    width: 20px;
+}
+.time-text{
+    margin-top: 4px;
+    margin-left: 1vh;
+    color: #fff;
+    font-size: 14px;
+}
+.chief-guest-name{
+    color: #ffffff;
+    font-weight: lighter;
+}
+.guestName{
+    color:#d5ddde;
+    font-weight: bolder;
+    margin-bottom: 2px;
+}
+.arrow{
+    font-size: 20px;
+}
+.desc1{
+    color: #74aae8;
+    font-weight: bold;
+}
+.bt-4{
+    width: 400px;
+    background-color: #0956db;
+    color: #ffffff;
+    padding: 1vh;
+}
+.claim-access-container{
+    margin-top: 10vh;
+}
+.claim-access-text{
+    color: #ffffff;
+    font-weight: lighter;
+    font-size: 18px;
+}
+.price2{
+    text-decoration: line-through;
+}
+.free-text{
+    color: #2de627;
+}
+
+.students-review{
+    background-color: #13083b;
+    padding: 4vh;
+}
+.students-review-title-heading{
+    width: 40%;
+    margin: auto;
+    font-size: 45px;
+    color: #fff;
+}
+.students-review-title-feedback{
+    width: 20%;
+
+    margin: auto;
+    border-radius: 15px;
+    border-width: 1px;
+    border-style: solid;
+    background-color: transparent;
+    border-color: #b87825;
+}
+.students-review-title-feedback-text{
+    font-size: 20px;
+    padding-top: 1vh;
+    color: #e39b3d;
+}
+
+
+
+
+.students-review-card{
+    background-color: #34405c;
+    width: 32%;
+    padding: 2vh;
+    border-radius: 12px;
+}
+.img2{
+    width: 50px;
+}
+.students-review-card-username-heading{
+    font-size: 15px;
+    color: #fff;
+}
+.students-review-card--text{
+    font-size: 11px;
+
+}
+.students-review-description-text{
+    color: #fff;
+}
+.section-podcast{
+    background: linear-gradient(to bottom right,#12283d ,#040409);
+    padding: 10vh;
+}
+.section-podcast-heading{
+    color: #ffffff;
+    font-size: 46px;
+    font-weight: bolder;
+}
+.podcast-benifits{
+    margin-top: 7vh;
+}
+.podcast-benifits-text{
+    font-weight: lighter;
+    font-size: 28px;
+}
+.section-podcast-btn{
+    background-color: #3164f0;
+    width: 35%;
+    color: #ffffff;
+}
+.section-claim-access{
+    background-color: #040b1c;
+    padding: 6vh;
+    padding-left: 17vh;
+}
+.section-claim-access-heading-text{
+    color: #ffffff;
+    font-size: 50px;
+    margin-top: 4vh;
+}
+.input-name{
+    width: 50vh;
+    height: 39px;
+    background-color: #46516b;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 8px;
+}
+.users-data-inputs{
+    margin-left: 13vh;
+
+}
+label{
+    color: white;
+}
+input::placeholder {
+    color: #fff; 
+    opacity: 1; 
+}
+
+.users-data-input-btn{
+    background-color: #3164f0;
+    width: 100%;
+    color: #fff;
+}
+.section-report-msg{
+    background: linear-gradient(to bottom right,#12283d ,#0e2b1b);
+    padding: 5vh;
+}
+.section-report-msg-text{
+    color: #fff;
+    font-size: 17px;
+    margin-left: 5vh;
+}
+
+.section-details{
+    background-color: #0a1226;
+    padding-top: 6%;
+    padding-left: 15vh;
+    padding-right: 15%;
+    padding-bottom: 5%;
+}
+.section-info{
+    margin-left: 10vh;
+}
+.email-text{
+    margin-top: 6vh;
+}
+
+ul{
+    list-style: none;
+}
+li{
+    font-size: 17px;
+    margin-top: 1vh;
+    color: #fff;
+}
+.quick-links{
+    margin-left: 20vh;
+}
+
+.quick-link-text{
+    color: #fff;
+    font-size: 17px;
+}
+.payment-methods{
+    margin-left: 20vh;
+}
+.payment-text{
+    color: #fff;
+    font-size: 19px;
+}
+.address{
+    width: 100%;
+    color: #fff;
+}
+.custom-line {
+    border: none;      
+    height: 2px;        
+    background-color: #333;
+    width: 100%;         
+    margin: 20px auto;  
+}
+.icon{
+    width: 20px;
+    margin-left: 2vh;
+}
+.section-policy{
+    margin-left: 10%;
+}
+.section-policy-text{
+    color: #e0dfe6;
+    margin-left: 2vh;
+}
+.bg-color{
+    background-color: #fff;
+    color: #000;
+}
